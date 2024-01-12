@@ -39,8 +39,8 @@ Planejamento, comunicação, trabalho em equipe, criatividade, trabalhar sob pre
 
 ## Estatísticas
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuizDev&layout=compact&show_icons=true&hide_border=true&theme=monokai&langs_count=10) 
-![Stats](https://github-readme-stats.vercel.app/api?username=JoaoLuizDev&show_icons=true&theme=monokai&count_private=true&hide_border=true&include_all_commits=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoluizcienciadados&layout=compact&show_icons=true&hide_border=true&theme=monokai&langs_count=10) 
+![Stats](https://github-readme-stats.vercel.app/api?username=joaoluizcienciadados&show_icons=true&theme=monokai&count_private=true&hide_border=true&include_all_commits=true)  
 
 
 
